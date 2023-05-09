@@ -40,5 +40,4 @@ lerna-debug.log*
 #user config
 .env.prod
 .env
-
 .serverless
