@@ -22,6 +22,7 @@ export class UsersService {
 
     this.users[ id ] = newUser;
 
+    console.log(JSON.stringify(this.users))
     return newUser;
   }
 

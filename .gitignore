@@ -36,3 +36,8 @@ lerna-debug.log*
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+#user config
+.env.prod
+.env
+.serverless
